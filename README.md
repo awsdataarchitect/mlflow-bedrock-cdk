@@ -5,7 +5,7 @@
 This repository implements an **MLflow-powered observability framework** for **generative AI** applications using **Amazon Bedrock**. It enables real-time tracking of model interactions, token usage analysis, and cost estimation for inference requests.
 
 For more details on how to deploy the infrastructure and the solution details, please refer to the Blog Post:
-* [MLflow-Powered Generative AI Observability with Amazon Bedrock]().
+* [MLflow-Powered Generative AI Observability with Amazon Bedrock](https://vivek-aws.medium.com/mlflow-powered-generative-ai-observability-with-amazon-bedrock-e54fa9df895e).
 
 ![Alt text](./mlflow.png?raw=true "MLflow-Powered Generative AI Observability with Amazon Bedrock")
 
